@@ -1,0 +1,8 @@
+{
+  "$schema": "./.vscode/jsconfig.schema.json",
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
