@@ -18,7 +18,7 @@ export default function IntroScreen({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        09-01-2006 aniku oruthavanga porandhangoo.. Iniku Avangaluku 20 vayasu..
+                        Hey Grace Keerthanaa......09-01-2006 aniku oruthavanga porandhangoo.. Iniku Avangaluku 20 vayasu..
                     </h1>
                     <p className="mt-4 text-xl text-pink-200">Adhu Nee tha Mentaluu..Unaku dhn ...</p>
                 </div>
@@ -35,3 +35,4 @@ export default function IntroScreen({ onNext }) {
         </div>
     )
 }
+
