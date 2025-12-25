@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import { motion } from "framer-motion"
 
 export default function LoaderScreen({ onDone }) {
-    const [count, setCount] = useState(3)
+    const [count, setCount] = useState(5)
 
     useEffect(() => {
         const t = setInterval(() => {
@@ -43,8 +43,9 @@ export default function LoaderScreen({ onDone }) {
                 animate={{ opacity: [0.8, 1, 0.8] }}
                 transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
             >
-                Wait Pannu Varum...
+                Hiiii Grace Keerthana.. Wait panunga...
             </motion.h1>
         </div>
     )
 }
+
