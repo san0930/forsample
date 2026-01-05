@@ -27,7 +27,7 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
-                        Happiest birthday di Azhagiiiii ... Enaku romba pudicha person aah agitiga .. yarukachu wife ah pudikama povuma 🤣....Tbh Azhagu aitey poringa.. rombaaaa azhaguuuu 😭❤.. mere cutie pieee 🌝 Ithana year irundha maari inimey un life irukathu cuz na un kuda iruken .. irupen ipovum lifelong .. I can't prove the future but I can assure you so live and enjoy with me .. na romba thevalama nariya pesuven thevaye ilama una kovam akuren enakey thonum you deserve better nu ana aprom namaley avalukaha better ah aavo nu la yosipenn aana procrastinate panitey iruken 😂😭 ..un kuda relationship la iruka aarabichathula irundhu dhn na happy ah iruken .. enikachu oru nal bad day varum dhn.. adha nama paathukalam😤 adha thaandiyum nama ina irupom 😌🙂‍↕... dw una nala paathuka try panren atleast epovum happy ah vechuka mudilana  kuda peaceful life ah lead panuvo... Jus wait for me until the day we known as the world agreed couple in this society 😂 ana enaku una vitutu ponum nu endha oru thought uhm ila 🤣un porandhanal anikun blade poda virumbala 🤣ara bodhaila pesuna mari dhn iruku..sorryyyyyy.. edho enala mudinja oru chinna work.. unaku pudikum nu namburen🤣❤️✨
+                        Happiest birthday di Azhagiiiii ... Enaku romba pudicha person aah agitiga .. yarukachu wife ah pudikama povuma 🤣....Tbh Azhagu aitey poringa.. rombaaaa azhaguuuu 😭❤.. mere cutie pieee 🌝 Ithana year irundha maari inimey un life irukathu cuz na un kuda iruken .. irupen ipovum lifelong .. I can't prove the future but I can assure you so live and enjoy with me .. na romba thevalama nariya pesuven thevaye ilama una kovam akuren enakey thonum you deserve better nu ana aprom namaley avalukaha better ah aavo nu la yosipenn aana procrastinate panitey iruken 😂😭 .. Sorryyyyy😭 enala un kuda seriya time spend pana mudiyala.... enakum un kuda jolly ah veliya la suthi time spend pananum nu aasa dhn aana mudiyala... adhukaha enaku una pudkalanu ial... indha mari situation laam sekrama seri aaidum nu nambuvom ..Literally un kuda relationship la iruka aarabichathula irundhu dhn na happy ah iruken .. enikachu oru nal bad day varum dhn.. adha nama paathukalam😤 adha thaandiyum nama ina irupom 😌🙂‍↕... dw una nala paathuka try panren atleast epovum happy ah vechuka mudilana  kuda peaceful life ah lead panuvo... Jus wait for me until the day we known as the world agreed couple in this society 😂 ana enaku una vitutu ponum nu endha oru thought uhm ila 🤣un porandhanal anikun blade poda virumbala 🤣ara bodhaila pesuna mari dhn iruku..sorryyyyyy.. edho enala mudinja oru chinna work.. unaku pudikum nu namburen🤣❤️✨
 
 
 
@@ -39,6 +39,7 @@ Adiyeeeeeeeeee...! Once again happiest birthday my princess wifeeeyyyy mentallee
     )
 
 }
+
 
 
 
