@@ -31,7 +31,7 @@ export default function MessageScreen({ onNext }) {
 
 
 
-Once again happiest birthday my princess wifeeeyyyy mentalleeeeeey paithiyameyyy ponney azhagiii auntyyyy bubblyy mummyyy akka etc .. Happy ah un life ah enjoy panu(en kuda) .. rendu perum jolly ah irupom Ms.Keeerthana🤣Ungaluku pudicha maari na iruken ah nu therla.. ana enaku ni ena panalum pudikuthu😌 loveeeeeeeeeeeee youuuuuuuuuu moreeee my princesss
+Adiyeeeeeeeeee...! Once again happiest birthday my princess wifeeeyyyy mentalleeeeeey paithiyameyyy ponney azhagiii auntyyyy bubblyy mummyyy akka etc .. Happy ah un life ah enjoy panu(en kuda) .. rendu perum jolly ah irupom Ms.Keeerthana🤣Ungaluku pudicha maari na iruken ah nu therla.. ana enaku ni ena panalum pudikuthu😌 loveeeeeeeeeeeee youuuuuuuuuu moreeee my princesss
                     </p>
                 </motion.div>
             </div>
@@ -39,5 +39,6 @@ Once again happiest birthday my princess wifeeeyyyy mentalleeeeeey paithiyameyyy
     )
 
 }
+
 
 
