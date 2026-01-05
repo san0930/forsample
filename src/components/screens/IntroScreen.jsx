@@ -18,9 +18,9 @@ export default function IntroScreen({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        Hey Grace......09-01-2006 aniku oruthavanga porandhangoo.. Iniku Avangaluku 20 vayasu..
+                        Hey Grace......09-01-2006 aniku oruthavanga porandhangoo.. Iniku Avangaluku 20 vayasu aaguthu..
                     </h1>
-                    <p className="mt-4 text-xl text-pink-200">Adhu Nee tha Mentaluu..Unaku dhn ...</p>
+                    <p className="mt-4 text-xl text-pink-200">Adhu unaku dha mentalu.. </p>
                 </div>
 
                 <div className="mt-8">
@@ -35,6 +35,7 @@ export default function IntroScreen({ onNext }) {
         </div>
     )
 }
+
 
 
 
