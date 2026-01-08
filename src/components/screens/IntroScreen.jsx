@@ -20,7 +20,7 @@ export default function IntroScreen({ onNext }) {
                         }}>
                         Hey Grace......09-01-2006 aniku oruthavanga porandhangoo.. Iniku Avangaluku 20 vayasu aaguthu..
                     </h1>
-                    <p className="mt-4 text-xl text-pink-200">Adhu unaku dha mentalu.. </p>
+                    <p className="mt-4 text-xl text-pink-200">Adhu unaku dha mentalu.. unaku dhn vayasu agiruchu </p>
                 </div>
 
                 <div className="mt-8">
@@ -35,6 +35,7 @@ export default function IntroScreen({ onNext }) {
         </div>
     )
 }
+
 
 
 
