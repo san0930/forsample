@@ -22,6 +22,7 @@ export default function PhotosScreen({ onNext }) {
     "/images/7.jpg",
     "/images/8.jpg",
     "/images/9.jpg",
+    "/images/10.jpg",
 
   ]
 
@@ -77,6 +78,7 @@ export default function PhotosScreen({ onNext }) {
     </div>
   )
 }
+
 
 
 
